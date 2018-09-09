@@ -18,7 +18,7 @@ conjur_version: 'OSS'
 conjur_container_name: 'conjur-master'
 conjur_EE_image_name: 'conjur-appliance'
 conjur_network_name: conjur
-conjur_https_port: '443'
+conjur_https_port: '4433'
 conjur_cli_container_name: 'conjur-cli'
 conjur_cli_image_name: 'cdemo/conjur-cli:latest'
 conjur_account: 'cyberark'
